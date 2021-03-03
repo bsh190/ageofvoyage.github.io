@@ -41,4 +41,4 @@
 - ![관련 이미지 2](Images/관련이미지2.jpg)
 - ![관련 이미지 3](Images/관련이미지3.jfif)
 #### 2) 관련 동영상
-[![관련동영상](Images/관련동영상.jpg)](https://youtu.be/lzOU-CRhDSw) 
+- [![관련동영상](Images/관련동영상.jpg)](https://youtu.be/lzOU-CRhDSw) 
