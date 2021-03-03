@@ -38,3 +38,4 @@
 ## 2. 관련 이미지와 동영상<a name='2'></a>
 #### 1) 관련 이미지
 #### 2) 관련 동영상
+[![관련동영상](https://youtu.be/lzOU-CRhDSw)](https://youtu.be/lzOU-CRhDSw) 
