@@ -71,10 +71,10 @@
 
 #### 3) 미적요소
 - 대항해시대 15~17세기 유럽 풍의 느낌으로 디자인.
-- 쉐이더를 이용하여 뛰어난 다중 플랫폼 지향적인 그래픽을 구사.
+- 쉐이더를 이용한 바다 그래픽.
 
 #### 4) 기술
-- 유니티의 URP(Universal Render pipeline), Terrain Tools, PolyBrush, ProBuilder를 이용하여 매우 세부적인 그래픽을 구사.
+- 유니티의 URP(Universal Render pipeline), Terrain Tool을 이용하여 매우 세부적인 그래픽을 구사.
 - Blender, Texture Heaven(사이트)을 이용하여 지형 텍스쳐링, 선박 모델링, 도시 모델링 등을 구사.
 - socket.io를 이용하여 서버-클라이언트 방식의 온라인 게임을 제작.
 
