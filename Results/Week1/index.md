@@ -19,3 +19,11 @@
 #### 3) 게임의 틀을 만들어두기 ```30~50%```
 
 ## 3. 작업 결과<a name='3'></a>
+
+#### 1) 깃허브 블로그 완성 ```100%```
+#### 2) socket.io를 이용하여 서버-클라이언트 방식의 온라인 게임 구조 틀 완성해두기. ```100%```
+#### 3) 게임의 틀을 만들어두기 ```30~50%```
+
+<figure class="video_container">
+  <iframe src="Week1.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
