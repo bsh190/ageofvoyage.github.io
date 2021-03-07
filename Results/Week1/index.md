@@ -25,5 +25,7 @@
 #### 3) 게임의 틀을 만들어두기 ```30~50%```
 
 <figure class="video_container">
-  <iframe src="Week1.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" allowfullscreen="true">
+    <source src="Week1.mp4" type="video/mp4">
+  </video>
 </figure>
