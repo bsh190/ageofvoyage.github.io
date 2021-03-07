@@ -25,7 +25,7 @@
 #### 3) 게임의 틀을 만들어두기 ```30~50%```
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
+  <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="Week1.mp4" type="video/mp4">
   </video>
 </figure>
